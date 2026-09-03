@@ -1,0 +1,12 @@
+#program pertama
+"""
+komentar
+dua baris atau lebih
+pertemuan 1 pratikum labor
+"""
+print ("Hello World")
+print()
+print("Departemen Informatika")
+print("Universitas Andalas")
+print("/ \\ // \\\\ /// \\\\\\")
+print("program ini" + " dibuat oleh a\\n " + "Raga Mohammad Aidil Fitra 2611532002")
